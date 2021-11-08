@@ -20,5 +20,5 @@ Desafio da Provi de Frontend. Com o objetivo de criar um clone de um site famoso
 - Instalar.. Yarn install(ou npm install)
 - Iniciar.. Yarn Start(npm start)
 
-#### Link do Deploy (Surge)
-- 
+#### Link do Deploy (Heroku)
+- https://case-netflix-heroku.herokuapp.com/
