@@ -1,0 +1,8 @@
+.featured {
+    height: 100vh;
+}
+@media (max-width: 768px) {
+    .featured {
+        height: 90vh;
+    }
+}
